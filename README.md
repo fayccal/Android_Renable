@@ -6,6 +6,8 @@ Android Renable is an android application made for deaf and mute people to help 
 
 The main menu is made of 4 buttons:
 
+<img align="center" src="images/sc_menu.png" width="40%" height="40%">
+
 ## Speech to text
 
 This activity is made of a textView, a spinner to choose a language and a hold button.
@@ -29,6 +31,3 @@ you can of course delete messages bye clicking the toggle button and click on th
 ## Informations
 
 This last activity is made in case you have an accident, if your phone is picked by someone and turn on the screen (of course if you did enable the option) it will display crucial informations to help you in your situation.
-
-
-<img align="center" src="images/sc_menu.png" width="30%" height="30%">
