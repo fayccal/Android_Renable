@@ -31,4 +31,4 @@ you can of course delete messages bye clicking the toggle button and click on th
 This last activity is made in case you have an accident, if your phone is picked by someone and turn on the screen (of course if you did enable the option) it will display crucial informations to help you in your situation.
 
 
-<img align="center" src="images/sc_menu.png">
+<img align="center" src="images/sc_menu.png" width="30%" height="30%">
